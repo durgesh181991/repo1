@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 701C-0AC8
+
+ Directory of C:\Users\durga\Desktop\my project
+
+10/01/2017  06:57 PM    <DIR>          .
+10/01/2017  06:57 PM    <DIR>          ..
+10/01/2017  06:57 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  241,227,706,368 bytes free
